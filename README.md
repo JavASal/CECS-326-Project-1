@@ -2,7 +2,7 @@
 
 File Copy project, this program is a command line program that copies an input file into an output destination.
 
-This program requires GCC 15.2.1 on linux machines for compilation. Compilation can be achieved doing the following:
+This program requires GCC 15.2.1 or cmake min version 4.1.1 on linux machines for compilation. Compilation can be achieved doing the following:
 "gcc filecopy.c -o filecopy"
 
 Once compiled the program can be run with the following:
