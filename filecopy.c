@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
-    // Check to see if correct number of arguments were passed in.
+    // Check to see if correct number of arguments were passed in. Must be 3, first arg will always be the program name.
     /*
      * list of accepted arguments
      * 1. program name
